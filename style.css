@@ -197,7 +197,7 @@ body {
 }
 
 #gameComplete a.button {
-  background: white;
+  background: purple;
   border-radius: 5px;
   display: block;
   font-size: 30px;
