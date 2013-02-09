@@ -98,7 +98,7 @@ body {
 /* These styles create the images on the cards. We're using a path to the images
    included in a directory in our game, but you can also use an image that is
    hosted anyhwere on the internet by using its url in the "url()" rule. */
-.ie {background: urlhttps://www.google.com/search?q=nemo&hl=en&client=firefox-beta&hs=5Oy&tbo=d&rls=org.mozilla:en-US:official&source=lnms&tbm=isch&sa=X&ei=UrsWUenjHbCNigLqsYGIBA&ved=0CAoQ_AUoAA&biw=1440&bih=711#imgrc=vdUCseAluJfm1M%3A%3BVHyCja2fGdJjvM%3Bhttp%253A%252F%252F2.bp.blogspot.com%252F-DLkTAxQsN3E%252FTvkyZQdJGUI%252FAAAAAAAAFM4%252FSc_HaqFa8A8%252Fs1600%252Fnemo-682_517230a.jpg%3Bhttp%253A%252F%252Fmoviefail.com%252F2012%252F05%252F24%252Fop-ed-finding-nemo-is-the-saddest-story-ever%252F%3B682%3B400 no-repeat; background-size: contain;}
+.ie {background: url(https://www.google.com/search?q=nemo&hl=en&client=firefox-beta&hs=5Oy&tbo=d&rls=org.mozilla:en-US:official&source=lnms&tbm=isch&sa=X&ei=UrsWUenjHbCNigLqsYGIBA&ved=0CAoQ_AUoAA&biw=1440&bih=711#imgrc=vdUCseAluJfm1M%3A%3BVHyCja2fGdJjvM%3Bhttp%253A%252F%252F2.bp.blogspot.com%252F-DLkTAxQsN3E%252FTvkyZQdJGUI%252FAAAAAAAAFM4%252FSc_HaqFa8A8%252Fs1600%252Fnemo-682_517230a.jpg%3Bhttp%253A%252F%252Fmoviefail.com%252F2012%252F05%252F24%252Fop-ed-finding-nemo-is-the-saddest-story-ever%252F%3B682%3B400)no-repeat; background-size: contain;}
 .fx {background: url(./images/fx.png) no-repeat; background-size: contain;}
 .cr {background: url(./images/cr.png) no-repeat; background-size: contain;}
 .sf {background: url(./images/sf.png) no-repeat; background-size: contain;}
